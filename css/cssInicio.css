@@ -1,0 +1,10 @@
+.contenedor{
+  display: flex;
+    background-color: rgb(10, 10, 10);
+}
+
+.buscar{
+   align-items: center;
+    display: flex;
+  margin-left: 500px;
+}
